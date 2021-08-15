@@ -55,8 +55,8 @@ cd PaddleRec
 ```
 
     Cloning into 'PaddleRec'...
-    remote: Enumerating objects: 18304, done.[K
-    remote: Total 18304 (delta 0), reused 0 (delta 0), pack-reused 18304[K
+    remote: Enumerating objects: 18304, done.
+    remote: Total 18304 (delta 0), reused 0 (delta 0), pack-reused 18304
     Receiving objects: 100% (18304/18304), 76.82 MiB | 5.09 MiB/s, done.
     Resolving deltas: 100% (10595/10595), done.
     Checking connectivity... done.
